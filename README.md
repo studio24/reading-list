@@ -23,6 +23,7 @@ People often ask us for recommended reading lists; books and websites where they
 
 ## PHP / books
 
+* [Learning PHP - A Gentle Introduction to the Web's Most Popular Language](http://shop.oreilly.com/product/0636920043034.do) - looks like a good introduction to PHP which also covers best practices in the industry
 * [Modern PHP: New Features and Good Practices](http://www.amazon.co.uk/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491905018&linkCode=as2&tag=stud24-21) - great book from the inventor of the Slim Framework, [Josh Lockhart](http://joshlockhart.com/), on the latest features that make up modern PHP.
 * [PHP Web Services: APIs for the Modern Web](http://www.amazon.co.uk/gp/product/1491933097/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491933097&linkCode=as2&tag=stud24-21) - excellent book by [Lorna Jane Mitchell](http://www.lornajane.net/) on web services and APIs, which make up the beating heart of many websites.
 
