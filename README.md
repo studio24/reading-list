@@ -17,7 +17,9 @@ People often ask us for recommended reading lists; books and websites where they
 
 ## Web standards / sites
 
-* [A List Apart](http://alistapart.com/) - the original webzine for web standards, and still the best.
+* [A List Apart](http://alistapart.com/) - the original webzine for web standards, and still a good read.
+* [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag). Good YouTube channel on standards and CSS grid from [Jen Simmons](http://jensimmons.com/).
+* [Grid by Example](https://gridbyexample.com/). Example step-by-step guide to CSS grid from [Rachel Andrew](https://rachelandrew.co.uk/).
 * [24 Ways](https://24ways.org/) - a great advent series of articles on web design & dev.
 * [Smashing Magazine](https://www.smashingmagazine.com/) - they publish regular articles and some fantastic books on current web design trends.
 
