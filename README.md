@@ -4,9 +4,11 @@ People often ask us for recommended reading lists; books and websites where they
 
 ## Web standards / books
 
+* [Learning Web Design](http://shop.oreilly.com/product/0636920051626.do) - the latest version of a book I bought when I was starting in the industry (called Web Design in a Nutshell back then) by Jennifer Niederst Robbins. Recommended for beginners. 
 * [A Book Apart](https://abookapart.com/) - superb collection of short, concise books on all things web standards.
 * [Smashing Magazine books](https://www.smashingmagazine.com/books/) - some great web industry books published by Smashing Magazine. Recent highlights include [Inclusive Design Patterns](https://www.smashingmagazine.com/inclusive-design-patterns) and [Real-Life Responsive Web Design](https://www.smashingmagazine.com/2015/03/31/real-life-responsive-web-design-smashing-book-5/)
 * [Designing with Web Standards](http://www.amazon.co.uk/gp/product/0321616952/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0321616952&linkCode=as2&tag=stud24-21) - The original book on web standards by [Jeffery Zeldman](http://www.zeldman.com/) and still an excellent introduction to the topic.
+
 
 ## Web standards / online books
 
