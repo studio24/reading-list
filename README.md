@@ -21,7 +21,9 @@ People often ask us for recommended reading lists; books and websites where they
 
 * [A List Apart](http://alistapart.com/) - the original webzine for web standards, and still a good read.
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag). Good YouTube channel on standards and CSS grid from [Jen Simmons](http://jensimmons.com/).
+* [Mozilla Developers](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w). A new YouTube channel on web development from the helpful folk at Mozilla.
 * [Grid by Example](https://gridbyexample.com/). Example step-by-step guide to CSS grid from [Rachel Andrew](https://rachelandrew.co.uk/).
+* [Every Layout](https://every-layout.dev/). A learning resource for CSS layouts.
 * [24 Ways](https://24ways.org/) - a great advent series of articles on web design & dev.
 * [Smashing Magazine](https://www.smashingmagazine.com/) - they publish regular articles and some fantastic books on current web design trends.
 
@@ -43,4 +45,4 @@ People often ask us for recommended reading lists; books and websites where they
 * [User Story Mapping: Discover the Whole Story, Build the Right Product](http://www.amazon.co.uk/gp/product/1491904909/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491904909&linkCode=as2&tag=stud24-21) - a good overview to defining requirements via user story mapping
 * [The Power of Project Leadership: 7 Keys to Help You Transform from Project Manager to Project Leader](http://www.amazon.co.uk/gp/product/0749472340/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0749472340&linkCode=as2&tag=stud24-21) - be a leader, not just a project manager
 
-If you're interested in joining a friendly, independent team of web professionals where we invest in our team through conferences, mentoring and training [find out more on our jobs page](http://www.studio24.net/who/join-us)!
+If you're interested in joining a friendly, independent team of web professionals where we invest in our team through conferences, mentoring and training [find out more on our careers page](https://www.studio24.net/careers/)!
