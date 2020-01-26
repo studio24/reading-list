@@ -31,13 +31,18 @@ People often ask us for recommended reading lists; books and websites where they
 
 * [Learning PHP - A Gentle Introduction to the Web's Most Popular Language](http://shop.oreilly.com/product/0636920043034.do) - looks like a good introduction to PHP which also covers best practices in the industry
 * [Modern PHP: New Features and Good Practices](http://www.amazon.co.uk/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491905018&linkCode=as2&tag=stud24-21) - great book from the inventor of the Slim Framework, [Josh Lockhart](http://joshlockhart.com/), on the latest features that make up modern PHP.
-* [PHP Web Services: APIs for the Modern Web](http://www.amazon.co.uk/gp/product/1491933097/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491933097&linkCode=as2&tag=stud24-21) - excellent book by [Lorna Jane Mitchell](http://www.lornajane.net/) on web services and APIs, which make up the beating heart of many websites.
 
 ## PHP / sites
 
 * [PHP The Right Way](http://www.phptherightway.com/) - an excellent summary of current best practises and tools in PHP.
 * [PHP Nomad](https://nomadphp.com/) - regular online talks, a great way to learn if you don't have a local PHP user group. 
 * [PHP Cambridge](http://www.meetup.com/phpcambridge/) - local PHP community user group run by our founder Simon R Jones. Come along to hear great speakers talk PHP!
+
+## APIs / books
+
+* [PHP Web Services: APIs for the Modern Web](http://www.amazon.co.uk/gp/product/1491933097/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491933097&linkCode=as2&tag=stud24-21) - excellent book by [Lorna Jane Mitchell](http://www.lornajane.net/) on web services and APIs, which make up the beating heart of many websites.
+* [Build APIs You Won't Hate](https://apisyouwonthate.com/books/build-apis-you-wont-hate) - tons of practical advice from Phil Sturgeon on creating APIs that work in the real world.
+* [Using the WordPress REST API](https://leanpub.com/using_the_wordpress_rest_api) - recent book by experienced PHP dev Cal Evans on the WP API.
 
 ## Project Management / books
 
