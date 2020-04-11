@@ -50,4 +50,6 @@ People often ask us for recommended reading lists; books and websites where they
 * [User Story Mapping: Discover the Whole Story, Build the Right Product](http://www.amazon.co.uk/gp/product/1491904909/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1491904909&linkCode=as2&tag=stud24-21) - a good overview to defining requirements via user story mapping
 * [The Power of Project Leadership: 7 Keys to Help You Transform from Project Manager to Project Leader](http://www.amazon.co.uk/gp/product/0749472340/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0749472340&linkCode=as2&tag=stud24-21) - be a leader, not just a project manager
 
+There's a fantastic reading list over at the [University of Minnesota Duluth](https://www.d.umn.edu/itss/training/online/webdesign/books.html) which is also worth a look.
+
 If you're interested in joining a friendly, independent team of web professionals where we invest in our team through conferences, mentoring and training [find out more on our careers page](https://www.studio24.net/careers/)!
