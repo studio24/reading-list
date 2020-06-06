@@ -16,6 +16,8 @@ People often ask us for recommended reading lists; books and websites where they
 * [Atomic Design](http://atomicdesign.bradfrost.com/) - a great resource on component based design approach that works so much better in the responsive world by [Brad Frost](http://bradfrost.com/). Available free online and as a physical book.
 * [Resilient web design](https://resilientwebdesign.com/) - a fascinating read on the web, where it came from and where it's going by [Jeremy Keith](http://adactio.com/).
 * [Yale Style Guide](http://webstyleguide.com/) - one of the first books I picked up and still a great study on the elements of successful web design. Available free online and as a [physical book](http://www.amazon.co.uk/gp/product/0300137370/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0300137370&linkCode=as2&tag=stud24-21).
+* [Designing for the web](https://designingfortheweb.co.uk/) - good introduction to web design using the principles of graphic design from Mark Boulton. Originally published in 2009 and now available for free online.
+
 
 ## Web standards / sites
 
